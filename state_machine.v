@@ -8,3 +8,4 @@ module state_machine (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 102ns
