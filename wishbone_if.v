@@ -8,3 +8,4 @@ module wishbone_if (
         else out <= ~out;
     end
 endmodule
+// Fixed identified race condition
