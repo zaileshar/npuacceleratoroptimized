@@ -6,3 +6,4 @@ public:
         std::cout << "Npuacceleratoroptimized_driver initialized." << std::endl;
     }
 };
+// Memory layout adjusted for cache hit rate
