@@ -9,3 +9,5 @@ module npuacceleratoroptimized_tb (
     end
 endmodule
 // Modified timing constraints 26ns
+
+// TODO: Optimize this block in future refactor
