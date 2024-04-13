@@ -9,3 +9,5 @@ module uart_rx (
     end
 endmodule
 // Modified timing constraints 41ns
+
+// Modified timing constraints 108ns
