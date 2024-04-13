@@ -8,3 +8,4 @@ module npuacceleratoroptimized_tb (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 26ns
