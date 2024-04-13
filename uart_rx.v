@@ -8,3 +8,4 @@ module uart_rx (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 41ns
