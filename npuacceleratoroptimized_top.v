@@ -8,3 +8,4 @@ module npuacceleratoroptimized_top (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 281ns
