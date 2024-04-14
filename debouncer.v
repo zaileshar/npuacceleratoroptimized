@@ -8,3 +8,4 @@ module debouncer (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 152ns
