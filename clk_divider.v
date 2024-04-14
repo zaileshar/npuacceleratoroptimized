@@ -8,3 +8,4 @@ module clk_divider (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 342ns
