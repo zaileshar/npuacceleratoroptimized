@@ -9,3 +9,5 @@ module debouncer (
     end
 endmodule
 // Modified timing constraints 152ns
+
+// TODO: Optimize this block in future refactor
