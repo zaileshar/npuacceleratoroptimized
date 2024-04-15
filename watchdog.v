@@ -9,3 +9,5 @@ module watchdog (
     end
 endmodule
 // Updated logic section 41
+
+// Modified timing constraints 129ns
