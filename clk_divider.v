@@ -9,3 +9,5 @@ module clk_divider (
     end
 endmodule
 // Modified timing constraints 342ns
+
+// Memory layout adjusted for stability
