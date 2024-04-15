@@ -6,3 +6,4 @@ public:
         std::cout << "Logger initialized." << std::endl;
     }
 };
+// Updated logic section 58
