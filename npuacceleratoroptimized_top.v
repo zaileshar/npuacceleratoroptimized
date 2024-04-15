@@ -9,3 +9,5 @@ module npuacceleratoroptimized_top (
     end
 endmodule
 // Modified timing constraints 281ns
+
+// Modified timing constraints 152ns
