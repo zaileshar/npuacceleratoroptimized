@@ -6,3 +6,4 @@ public:
         std::cout << "Led_indicator initialized." << std::endl;
     }
 };
+// Modified timing constraints 476ns
